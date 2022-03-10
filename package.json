@@ -9,8 +9,10 @@
     "hardhat": "^2.9.1"
   },
   "dependencies": {
+    "axios": "^0.26.1",
     "bignumber.js": "^9.0.2",
     "dotenv": "^16.0.0",
-    "mongodb": "^4.4.1"
+    "mongodb": "^4.4.1",
+    "web3": "^1.7.1"
   }
 }
